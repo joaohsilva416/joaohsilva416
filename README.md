@@ -1,4 +1,6 @@
-### Hi there 👋
+# Oi me chamo João Henrique👋
+Sou um estudante de Eng de Software, minha área de foco é Ciência de Dados para futuramente migrar para IA,
+sou apaixonado por animes, games e séries em geral, também curto muito ir pra academia.
 
 <!--
 **joaohsilva416/joaohsilva416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
